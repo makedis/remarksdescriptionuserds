@@ -1,0 +1,33 @@
+{
+  "name": "remarksdescriptionuserds",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "remarksdescriptionuserds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makedis/remarksdescriptionuserds"
+  },
+  "website": "https://github.com/makedis/remarksdescriptionuserds.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "makedis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makedis/remarksdescriptionuserds/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/makedis/remarksdescriptionuserds#readme",
+  "dependencies": {
+    "simpleqcurrencydconverterd": "1.0.2"
+  }
+}
